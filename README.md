@@ -15,4 +15,4 @@ webpack
 dotnet build
 dotnet run
 ```
-And borwse to http://localhost:5000
+And browse to [http://localhost:5000](http://localhost:5000)
