@@ -1,7 +1,7 @@
 # reactdotnet
-Small prototype using React components within a ASP.NET MVC site. 
+React components within an ASP.NET MVC site.
 
-### Boilerplate created by ###
+### Result of ###
 ```
 npm install -g generator-aspnetcore-spa
 yo aspnetcore-spa (React+Redux)
